@@ -1,7 +1,7 @@
 {
-  "name": "echopast-moderasyon",
+  "name": "echopast-log-config-ban-timeoutbot",
   "version": "5.0.0",
-  "description": "echopast moderasyon",
+  "description": "echopast tarafından yapılmıştır, timeout sistemi discord.gg/altyapilar sunucusundan alınmıştır. echopast#2499",
   "main": "echopast.js",
   "scripts": {
     "start": "node echopast.js"
