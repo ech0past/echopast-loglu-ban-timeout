@@ -5,5 +5,5 @@ echopast#2499 tarafından yapılmıştır, sadece timeout sistemi discord.gg/alt
 
 Herhangi bir hata aldığınızda bana ulaşın...
 
-Public için 50 star atın yapayım. :))
+Daha çok gelişmiş bot için 50 star atın yapayım. :))
 echopast#2499
